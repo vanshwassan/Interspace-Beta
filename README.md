@@ -15,4 +15,3 @@ python already_trained.py
   
 Special Thanks <br>
 face_recognition library - https://github.com/ageitgey/face_recognition <br>
-Instagram-Scrapper - https://github.com/arc298/instagram-scraper 
